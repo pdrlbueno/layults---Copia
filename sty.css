@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+.amarelo{
+    background-color: yellow;
+    padding: 20px;
+    margin: 5px;
+}
+.azul{
+    background-color: blue;
+    padding: 20px;
+    padding-right: 1545px;
+}
+.flex{
+    display: flex;
+    
+}
+.ext{
+  padding-right: 70;  
+}
+.ext2{
+    padding-bottom: 70;
+}
