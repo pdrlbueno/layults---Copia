@@ -9,8 +9,9 @@ body{
 .azul{
     background-color: blue;
     padding: 20px;
-    padding-right: 1545px;
-}
+    height: 150;
+    width: 150;
+}    
 .flex{
     display: flex;
     
